@@ -1,1 +1,4 @@
  /private/
+.vscode/
+.env
+*.log
