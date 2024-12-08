@@ -1,0 +1,9 @@
+python --version
+local source - Source : C:\Users\Jiten\Documents\code\Stock
+
+To move your local code to GitHub, follow these steps:
+Navigate to your project's directory and initialize it as a Git repository:
+cd /path/to/your/project
+git init
+#Create empty .gitignore file
+echo. > .gitignore

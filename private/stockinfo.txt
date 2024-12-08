@@ -1,0 +1,7 @@
+#Date: 07.12.2024
+This project is started to work on the stock data analysis and prepare the app
+with stock insights leading to wealth creation
+
+Topics
+1. Fetch all the stocks from NSE and save to database
+https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv
